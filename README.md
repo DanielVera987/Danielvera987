@@ -2,7 +2,13 @@
 
 #### 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un ERP y CRM con PHP
 
-| Primer encabezado | Segundo encabezado |
-| ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| Mis Herramientas |
+| ------------- |
+| PHP  |
+| JAVASCRIPT  |
+| HTML |
+| CSS |
+| JQUERY |
+| LARAVEL |
+| ANGULAR |
+| BOOSTRAP |

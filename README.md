@@ -2,7 +2,9 @@
 
 #### 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un ERP y CRM con PHP
 
-<p align="left">
+## Mis skills
+
+<p align="center">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 

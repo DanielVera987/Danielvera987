@@ -17,4 +17,16 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
 </p>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" /> </p>
+  
+<p align="center">
+  <a href="https://linkedin.com/in/danielveraangulo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielveraangulo" height="20" width="20" />
+  </a>
+  <a href="https://fb.com/daniel.veraangulo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daniel.veraangulo" height="20" width="20" />
+  </a>
+  <a href="https://instagram.com/davadevel" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davadevel" height="20" width="20" />
+  </a>
+</p>
 

@@ -15,25 +15,18 @@
   <img src="https://desarrolloweb.com/storage/tag_images/actual/dAq8x6QtJoeQa6nnaSPZdS8RzXMFXZUeR336tkvm.png" alt="nginx" width="50" height="50"/>
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" /> </p> 
+
 ## Mis Redes Sociales
-  <ul>
-  <p align="center">
-   <li>
+
+ <p align="center
   <a href="https://linkedin.com/in/danielveraangulo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielveraangulo" height="20" width="20" />
   </a>
-    </li>
-    <li>
   <a href="https://fb.com/daniel.veraangulo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daniel.veraangulo" height="20" width="20" />
   </a>
-    </li>
-    <li>
   <a href="https://instagram.com/davadevel" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davadevel" height="20" width="20" />
   </a>
-    </li>
 </p>
-</ul>    |
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" /> </p> 

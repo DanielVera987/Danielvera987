@@ -21,12 +21,12 @@
 
  <p align="center">
   <a href="https://linkedin.com/in/danielveraangulo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielveraangulo" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielveraangulo" height="35" width="35" />
   </a>
   <a href="https://fb.com/daniel.veraangulo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daniel.veraangulo" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daniel.veraangulo" height="35" width="35" />
   </a>
   <a href="https://instagram.com/davadevel" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davadevel" height="20" width="20" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="davadevel" height="35" width="35" />
   </a>
 </p>

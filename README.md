@@ -19,7 +19,7 @@
 
 ## Mis Redes Sociales
 
- <p align="center
+ <p align="center">
   <a href="https://linkedin.com/in/danielveraangulo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danielveraangulo" height="20" width="20" />
   </a>

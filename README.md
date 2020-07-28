@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angularjs" width="50" height="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="50"/> 
-  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css3" width="50" height="50"/> 
+  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css3" width="45" height="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="50" height="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="50" height="50"/> 
   <img src="http://arbo.com.ve/wp-content/uploads/2016/01/laravel-logo.png" alt="laravel" width="50" height="50"/> 

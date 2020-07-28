@@ -11,7 +11,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="50" height="50"/> 
   <img src="http://arbo.com.ve/wp-content/uploads/2016/01/laravel-logo.png" alt="laravel" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="mysql" width="50" height="50"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="php" width="50" height="55"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="php" width="55" height="50"/> 
   <img src="https://desarrolloweb.com/storage/tag_images/actual/dAq8x6QtJoeQa6nnaSPZdS8RzXMFXZUeR336tkvm.png" alt="nginx" width="50" height="50"/>
 </p>
 

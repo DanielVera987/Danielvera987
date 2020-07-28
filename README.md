@@ -4,7 +4,7 @@
 
 ## Mis skills
 <p align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angularjs" width="50" height="50"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 

@@ -3,7 +3,7 @@
 ### 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un ERP y CRM con PHP
 
 ## Mis skills
-[![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTMLs&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()

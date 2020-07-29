@@ -25,4 +25,4 @@
 
 ## Dashboard
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" /> </p> 
+<img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" />

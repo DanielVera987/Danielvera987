@@ -23,6 +23,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@davadevel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/davadevel)
 [![Facebook](https://img.shields.io/badge/Facebook-@daniel.veraangulo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://fb.com/daniel.veraangulo)
 
+## Contact me:
+
+[![Email](https://img.shields.io/badge/danielveraangulo703@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danielveraangulo703@gmail.com)
+
 ## Dashboard
 
 <img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" />

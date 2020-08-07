@@ -1,8 +1,16 @@
-# Hola un saludo 👋, soy Daniel Vera.
+### Hola un saludo 👋, soy Daniel Vera.
 
-### 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un ERP y CRM con PHP
+<br/>
 
-## Mis skills
+Hola mi nombre es Daniel Vera, naci en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarrollador de software.Inicie este hermosa carrera en 2017 aprendi las bases estudiando mi carrera como Lic. Sistemas Computacionales y en mis tiempos libres me dedicaba a tomar cursos de udemy y a practicar realizando proyectos para empresas o para tareas 
+
+**Cosas mias:**
+
+- 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un ERP y CRM con PHP.
+- 🌱 Actualmente estoy aprendiendo JavaScript y el uso de las buenas practicas CODE CLEAN; 
+- 👨‍💻 Ahora practico en un proyecto llamado [minicontable!](https://github.com/DanielVera987/minicontable) con PHP7 
+
+## ⚡ Lenguajes y Herramientas
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
@@ -17,16 +25,14 @@
 
 [![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white&labelColor=101010)]()
 
-## Mis Redes Sociales
+## 🛰 Mis Redes Sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielveraangulo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/danielveraangulo)
 [![Instagram](https://img.shields.io/badge/Instagram-@davadevel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/davadevel)
 [![Facebook](https://img.shields.io/badge/Facebook-@daniel.veraangulo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://fb.com/daniel.veraangulo)
 
-## Contactame:
+## 📫 Contactame:
 
 [![Email](https://img.shields.io/badge/danielveraangulo703@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danielveraangulo703@gmail.com)
-
-## Dashboard
 
 <img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" />

@@ -1,4 +1,4 @@
-### Hola un saludo 👋, soy Daniel Vera.
+### Hola un saludo 👋, Soy Daniel Vera.
 
 <br/>
 

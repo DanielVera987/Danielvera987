@@ -1,4 +1,6 @@
-<img src="https://pbs.twimg.com/profile_banners/1279641352070971392/1597380421/1500x500" width="500"/>
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_banners/1279641352070971392/1597380421/1500x500" width="700" style="margin: auto;"/>
+ </p>
 
 ### Hola un saludo 👋, Soy Daniel Vera.
 
@@ -36,5 +38,3 @@ Hola mi nombre es Daniel Vera, naci en una hermosa isla llamada Cozumel en Quint
 ## 📫 Contactame:
 
 [![Email](https://img.shields.io/badge/danielveraangulo703@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danielveraangulo703@gmail.com)
-
-<img src="https://github-readme-stats.vercel.app/api?username=danielvera987&show_icons=true" alt="danielvera987" />

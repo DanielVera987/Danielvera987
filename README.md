@@ -11,7 +11,7 @@ Hola mi nombre es Daniel Vera, naci en una hermosa isla llamada Cozumel en Quint
 **Cosas mias:**
 
 - 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un ERP y CRM con PHP.
-- 🌱 Actualmente estoy aprendiendo JavaScript y el uso de las buenas practicas CODE CLEAN; 
+- 🌱 Actualmente estoy aprendiendo NodeJS y el uso de las buenas practicas con PHP; 
 - 👨‍💻 Ahora practico en un proyecto llamado [minicontable!](https://github.com/DanielVera987/minicontable) con PHP7 
 
 ## ⚡ Lenguajes y Herramientas

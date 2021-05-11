@@ -11,8 +11,8 @@ Hola mi nombre es Daniel Vera, naci en una hermosa isla llamada Cozumel en Quint
 **Cosas mias:**
 
 - 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un Sistema ERP y CRM con PHP.
-- 🌱 Actualmente estoy practicando TDD con Laravel; 
-- 👨‍💻 Ahora practico con TDD con Laravel realizando un Sistema de Facturación [FactuDav!](https://github.com/DanielVera987/factudav)
+- 🌱 Actualmente estoy practicando Laravel con ShopDav y NodeJS; 
+- 👨‍💻 Ahora practico con TDD con Laravel realizando una E-commerce [ShopDav!](https://github.com/DanielVera987/shopdav)
 
 ## ⚡ Lenguajes y Herramientas
 

@@ -6,13 +6,12 @@
 
 <br/>
 
-Hola mi nombre es Daniel Vera, naci en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarrollador de software.Inicie este hermosa carrera en 2017 aprendi las bases estudiando mi carrera como Lic. Sistemas Computacionales y en mis tiempos libres me dedicaba a tomar cursos de udemy y a practicar realizando proyectos para empresas o para tareas 
+Nací en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarrollador de software.Inicie este hermosa carrera en 2017 aprendi las bases estudiando mi carrera como Lic. Sistemas Computacionales y en mis tiempos libres me dedicaba a tomar cursos de udemy y a practicar realizando proyectos para empresas o para tareas 
 
 **Cosas mias:**
 
-- 💼 Acualmente me dedico a Desarrollador de Software en una empresa, donde se cuenta con un Sistema ERP y CRM con PHP.
-- 🌱 Actualmente estoy practicando Laravel con ShopDav y NodeJS; 
-- 👨‍💻 Ahora practico con TDD con Laravel realizando una E-commerce [ShopDav!](https://github.com/DanielVera987/shopdav)
+- 💼 Acualmente me dedico a Desarrollador Web
+- 🌱 Actualmente estoy practicando Laravel
 
 ## ⚡ Lenguajes y Herramientas
 

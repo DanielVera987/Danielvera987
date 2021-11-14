@@ -11,7 +11,7 @@ Nací en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarroll
 **Cosas mias:**
 
 - 💼 Acualmente me dedico a Desarrollador Web
-- 🌱 Actualmente estoy practicando Laravel
+- 🌱 Actualmente estoy practicando ReactJS
 
 ## ⚡ Lenguajes y Herramientas
 

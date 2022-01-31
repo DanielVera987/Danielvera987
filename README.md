@@ -6,11 +6,10 @@
 
 <br/>
 
-Nací en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarrollador de software.Inicie este hermosa carrera en 2017 aprendi las bases estudiando mi carrera como Lic. Sistemas Computacionales y en mis tiempos libres me dedicaba a tomar cursos de udemy y a practicar realizando proyectos para empresas o para tareas 
+Nací en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarrollador de software. Inicie este hermosa carrera en 2017 aprendi las bases estudiando mi carrera como Lic. Sistemas Computacionales y en mis tiempos libres me dedicaba a tomar cursos de udemy y a practicar realizando proyectos para empresas o para tareas 
 
 **Cosas mias:**
 
-- 💼 Acualmente me dedico a Desarrollador Web
 - 🌱 Actualmente estoy practicando ReactJS
 
 ## ⚡ Lenguajes y Herramientas
@@ -25,13 +24,10 @@ Nací en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarroll
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-[![NGINX](https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white&labelColor=101010)]()
-
 ## 🛰 Mis Redes Sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielveraangulo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/danielveraangulo)
 [![Instagram](https://img.shields.io/badge/Instagram-@_davadev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/_davadev)
-[![Facebook](https://img.shields.io/badge/Facebook-@daniel.veraangulo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://fb.com/daniel.veraangulo)
 [![Twitter](https://img.shields.io/badge/Twitter-@_davadev-1877F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/_davadev)
 
 ## 📫 Contactame:

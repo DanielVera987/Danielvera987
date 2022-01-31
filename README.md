@@ -2,11 +2,9 @@
   <img src="https://pbs.twimg.com/profile_banners/1279641352070971392/1597380421/1500x500" width="700" style="margin: auto;"/>
  </p>
 
-### Hola un saludo 👋, Soy Daniel Vera.
+### Hola 👋, Soy Daniel Vera.
 
-<br/>
-
-Nací en una hermosa isla llamada Cozumel en Quintana Roo 🏊‍, Soy desarrollador de software. Inicie este hermosa carrera en 2017 aprendi las bases estudiando mi carrera como Lic. Sistemas Computacionales y en mis tiempos libres me dedicaba a tomar cursos de udemy y a practicar realizando proyectos para empresas o para tareas 
+> Soy desarrollador web. Amo escribir código, la tecnología, la organización y el anime.
 
 ## ⚡ Lenguajes y Herramientas
 

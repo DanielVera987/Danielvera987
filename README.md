@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1279641352070971392/1597380421/1500x500" width="700" style="margin: auto;"/>
- </p>
-
 ### Hola 👋, Soy Daniel Vera.
 
 > Soy desarrollador web. Amo escribir código, la tecnología, la organización y el anime.

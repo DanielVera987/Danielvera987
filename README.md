@@ -14,7 +14,6 @@
 - #### Backend
   - [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
   [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
-  [![NodeJS](https://img.shields.io/badge/NODEJS-89BC3C?style=for-the-badge&logo=NODE&logoColor=white&labelColor=101010)]()
 
 - #### Base de datos
   - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
@@ -24,6 +23,7 @@
   [![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
   [![GITLAB](https://img.shields.io/badge/GITLAB-EF6824?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
   [![LINUX](https://img.shields.io/badge/LINUX-ffffff?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+  [![DOCKER](https://img.shields.io/badge/DOCKER-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 
 <br>
 

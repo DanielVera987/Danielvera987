@@ -1,15 +1,13 @@
 ## Hola 👋, Soy Daniel Vera.
 
-> Soy desarrollador web, especialmente en en el BackEnd. Amo escribir código, la tecnología, la organización.
-
-<br>
+> Un programador en el lado obscuro de los sistemas (BackEnd). Amo escribir código ❤️
 
 ## 🚀 Tecnologias
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-CF699E?style=for-the-badge&logo=SASS&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=101010)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
@@ -19,28 +17,6 @@
 [![GITLAB](https://img.shields.io/badge/GITLAB-EF6824?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 [![LINUX](https://img.shields.io/badge/LINUX-ffffff?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![DOCKER](https://img.shields.io/badge/DOCKER-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
-
-<br>
-
-## 🛰 Mis Redes Sociales
-
-<a href="https://www.linkedin.com/in/danielveraangulo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://instagram.com/_davadev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://twitter.com/_davadev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter">
-</a>
-
-<br><br>
-
-## 📫 Contactame:
-
-[![Email](https://img.shields.io/badge/danielveraangulo703@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danielveraangulo703@gmail.com)
 
 <br>
 

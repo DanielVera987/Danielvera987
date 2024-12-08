@@ -1,4 +1,4 @@
-## Hola 👋, Soy Daniel Vera.
+## Hola 👋 Soy Daniel Vera.
 
 > Un programador en el lado obscuro de los sistemas (BackEnd). Amo escribir código ❤️
 

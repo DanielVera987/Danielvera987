@@ -17,6 +17,7 @@
 [![GITLAB](https://img.shields.io/badge/GITLAB-EF6824?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 [![LINUX](https://img.shields.io/badge/LINUX-ffffff?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 [![DOCKER](https://img.shields.io/badge/DOCKER-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![PYTHON](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 <br>
 

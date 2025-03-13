@@ -21,4 +21,4 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielvera987&show_icons=true&theme=transparent)
+<img align="" width="40.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=Danielvera987&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="40.4%" src="https://github-readme-stats.vercel.app/api?username=Danielvera987&show_icons=true&theme=transparent" />

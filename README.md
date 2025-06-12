@@ -1,4 +1,6 @@
-## Hola 👋 Soy Daniel Vera.
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGuQyYwrrWSag/profile-displaybackgroundimage-shrink_350_1400/B56ZdYIM7gHUAY-/0/1749530234922?e=1755129600&v=beta&t=3DlVwZ9Z4eWnHPiJxUr14UNY3jl38jIjMB5V48qg8GQ">
+
+# Hi 👋.
 
 > Un programador en el lado obscuro de los sistemas (BackEnd). Amo escribir código ❤️
 

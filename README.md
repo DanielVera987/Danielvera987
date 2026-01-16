@@ -32,7 +32,7 @@
   - 📚 Lic. Sistemas Computacionales.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **NodeJS** and **Python**.
+  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **NodeJS**.
 
   - 💬 Ask me about **any technology**.
   <br>
@@ -44,7 +44,7 @@
 
   - Microservices architecture
   - Clean architecture
-  - TDD
+  - DDD
 </div>
 
 
@@ -66,18 +66,6 @@
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-</div>
-
-
-<div>
-
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/DanielVera987">
-    <img width=450 height=170 align="center" alt="DanielVera987" src="https://github-readme-stats.vercel.app/api?username=DanielVera987&theme=shadow_blue&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/DanielVera987">
-    <img align="center" alt="DanielVera987" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVera987&theme=shadow_blue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
 </div>
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
